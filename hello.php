@@ -18,7 +18,7 @@ class Personne {
 }
 
 // Instanciation de l'objet
-$personne1 = new Personne("SSSSS", 30);
+$personne1 = new Personne("Sa",27);
 
 // Appel de la méthode sePresenter()
 $personne1->sePresenter();
